@@ -1,6 +1,7 @@
 import pygame, random
 pygame.init()
 
+fuck bitches
 
 # Set display settings
 screen_width = 700
